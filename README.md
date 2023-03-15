@@ -1,4 +1,4 @@
-### Hola a todos 👋
+## Hola a todos 👋
 
 <!--
 **Rafael-Garrido/Rafael-Garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
